@@ -1,4 +1,4 @@
-# This repo is depreacted, please see [ens-contracts](https://github.com/ensdomains/ens-contracts)
+# This repo is deprecated, please see [ens-contracts](https://github.com/ensdomains/ens-contracts)
 
 # ENS
 
